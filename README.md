@@ -27,3 +27,6 @@ The following factors affect the parameters in the above formula:
 	Crop type- The type of crop decides the height of standing water needed or the saturation of soil necessary for the crop before planting. The period length of the crop season also determines the overall irrigation requirement of the crop.
 	Growth stage of the crop- Depending on the phase of the crop cycle, the water need of the crop (dry harvested crops) varies. Mostly, a full grown crop with full coverage of the ground takes more water than a crop at say the seeding stage.
 	Soil type- The kind of soil affects the amount of water that is stored near the root and the amount of water that is lost due to percolation.
+
+We have designed prototype before actual implementation
+https://app.uizard.io/p/c1541fe4
